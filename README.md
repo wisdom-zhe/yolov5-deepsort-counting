@@ -31,7 +31,7 @@
 1. 下载代码
 
    ```
-   $ git clone https://github.com/dyh/unbox_yolov5_deepsort_counting.git
+   $ git clone https://github.com/wisdom-zhe/yolov5-deepsort-counting.git
    ```
 
    > 因此repo包含weights及mp4等文件，若 git clone 速度慢，可直接下载zip文件：https://github.com/dyh/unbox_yolov5_deepsort_counting/archive/main.zip
