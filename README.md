@@ -39,7 +39,7 @@
 2. 进入目录
 
    ```
-   $ cd unbox_yolov5_deepsort_counting
+   $ cd yolov5-deepsort-counting
    ```
 
 3. 创建 python 虚拟环境
